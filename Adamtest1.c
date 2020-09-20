@@ -19,6 +19,9 @@ int main()
 
   char mode[]={'8','N','1',0},
        str[2][512];
+	   
+  //unsigned char command[] = {254, 66};
+  char command[] = {254, 66};
 
 
   strcpy(str[0], "Adams test code \n");
@@ -34,6 +37,8 @@ int main()
 
   while(1)
   {
+	
+	RS232_cputs(cport_nr, command);
     RS232_cputs(cport_nr, str[i]);
 
 #ifdef _WIN32
