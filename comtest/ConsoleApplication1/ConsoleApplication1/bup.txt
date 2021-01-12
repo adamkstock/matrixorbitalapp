@@ -1,0 +1,42 @@
+#include <iostream>
+#include "pch.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <tchar.h>
+#include <windows.h>
+using namespace std;
+#using <System.dll>
+
+using namespace System;
+using namespace System::IO::Ports;
+using namespace System::Threading;
+
+int main() {
+	// Managed array
+	cli::array<unsigned char> ^values = { 0x54, 0x65, 0x73, 0x74 };
+	cli::array<unsigned char> ^command = { 0xFE, 0x48};
+
+
+	//String values = "test";
+	SerialPort^ mySerialPort = gcnew SerialPort("COM3");
+	mySerialPort->BaudRate = 19200;
+	mySerialPort->Open();
+	for (int i = 0x30; i < 0x3A; ++i)
+	{
+
+		// some work with values goes here...
+		cli::array<unsigned char> ^number = { i };
+
+		// We should specify buffer offset and length
+		mySerialPort->Write(values, 0, values->Length);
+		mySerialPort->Write(number, 0, number->Length);
+		mySerialPort->Write(command, 0, command->Length);
+
+		Sleep(1000);
+
+		printf("sent %d\n", i);
+
+
+
+	}
+}

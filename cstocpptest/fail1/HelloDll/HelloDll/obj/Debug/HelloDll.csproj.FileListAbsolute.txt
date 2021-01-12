@@ -1,0 +1,12 @@
+C:\Users\deada\Desktop\C\c# to c++ test\fail1\HelloDll\HelloDll\bin\Debug\HelloDll.dll
+C:\Users\deada\Desktop\C\c# to c++ test\fail1\HelloDll\HelloDll\bin\Debug\HelloDll.pdb
+C:\Users\deada\Desktop\C\c# to c++ test\fail1\HelloDll\HelloDll\obj\Debug\HelloDll.csproj.CoreCompileInputs.cache
+C:\Users\deada\Desktop\C\c# to c++ test\fail1\HelloDll\HelloDll\obj\Debug\HelloDll.dll
+C:\Users\deada\Desktop\C\c# to c++ test\fail1\HelloDll\HelloDll\obj\Debug\HelloDll.pdb
+C:\Users\deada\Desktop\C\c# to c++ test\fail1\HelloDll\HelloDll\bin\Debug\HelloDll.tlb
+C:\Users\deada\Desktop\C\cstocpptest\fail1\HelloDll\HelloDll\bin\Debug\HelloDll.dll
+C:\Users\deada\Desktop\C\cstocpptest\fail1\HelloDll\HelloDll\bin\Debug\HelloDll.pdb
+C:\Users\deada\Desktop\C\cstocpptest\fail1\HelloDll\HelloDll\bin\Debug\HelloDll.tlb
+C:\Users\deada\Desktop\C\cstocpptest\fail1\HelloDll\HelloDll\obj\Debug\HelloDll.csproj.CoreCompileInputs.cache
+C:\Users\deada\Desktop\C\cstocpptest\fail1\HelloDll\HelloDll\obj\Debug\HelloDll.dll
+C:\Users\deada\Desktop\C\cstocpptest\fail1\HelloDll\HelloDll\obj\Debug\HelloDll.pdb

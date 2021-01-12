@@ -1,0 +1,3 @@
+﻿  testingdll.cpp
+c:\users\deada\desktop\c\cstocpptest\fail1\testingdll\testingdll\testingdll.cpp(6): fatal error C1083: Cannot open type library file: 'c:\users\deada\desktop\c\cstocpptest\fail1\hellodll\hellodll\bin\debug\hellodll.dll': Error loading type library/DLL.
+  

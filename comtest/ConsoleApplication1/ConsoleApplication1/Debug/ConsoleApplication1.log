@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+c:\users\deada\desktop\c\matrixorbitalapp\comtest\consoleapplication1\consoleapplication1\consoleapplication1.cpp(19): error C2143: syntax error: missing ';' before 'cli::array<unsigned char,1>'
+c:\users\deada\desktop\c\matrixorbitalapp\comtest\consoleapplication1\consoleapplication1\consoleapplication1.cpp(26): error C2275: 'std::string': illegal use of this type as an expression
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstring(4373): note: see declaration of 'std::string'
+c:\users\deada\desktop\c\matrixorbitalapp\comtest\consoleapplication1\consoleapplication1\consoleapplication1.cpp(28): error C2664: 'void System::IO::Ports::SerialPort::Write(cli::array<unsigned char,1> ^,int,int)': cannot convert argument 1 from 'const _Elem *' to 'cli::array<wchar_t,1> ^'
+          with
+          [
+              _Elem=char
+          ]
+c:\users\deada\desktop\c\matrixorbitalapp\comtest\consoleapplication1\consoleapplication1\consoleapplication1.cpp(33): error C2065: 'cout': undeclared identifier
+c:\users\deada\desktop\c\matrixorbitalapp\comtest\consoleapplication1\consoleapplication1\consoleapplication1.cpp(33): error C2664: 'std::ios_base &std::hex(std::ios_base &)': cannot convert argument 1 from 'int' to 'std::ios_base &'

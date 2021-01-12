@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 21 Sep 2020 15:59:56 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[New York among three 'anarchist' cities named by White House to lose funds]]></title>
+            <description><![CDATA[New York, Seattle and Portland are named by the White House as cities that could lose federal funds.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54238101</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54238101</guid>
+            <pubDate>Mon, 21 Sep 2020 15:29:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lesbos: Hundreds test positive for Covid-19 after migrant camp fire]]></title>
+            <description><![CDATA[More than 240 migrants test positive at the new Lesbos camp built after the old one burnt down.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54239446</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54239446</guid>
+            <pubDate>Mon, 21 Sep 2020 15:56:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Woman arrested at US-Canada border for poison mailed to White House]]></title>
+            <description><![CDATA[The unidentified woman was caught while attempting to cross the US-Canada border and is awaiting charges.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54221893</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54221893</guid>
+            <pubDate>Mon, 21 Sep 2020 12:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China military PR film mocked over 'Hollywood clips']]></title>
+            <description><![CDATA[Social media users say the air force's promotional video used scenes from Transformers and The Rock.]]></description>
+            <link>https://www.bbc.co.uk/news/world-54236256</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-54236256</guid>
+            <pubDate>Mon, 21 Sep 2020 13:17:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cameroon soldiers jailed for killing women and children]]></title>
+            <description><![CDATA[Cameroon initially dismissed the film of two women and two children being shot as "fake news".]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54238170</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54238170</guid>
+            <pubDate>Mon, 21 Sep 2020 15:59:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michael Lonsdale, who played James Bond villain in Moonraker, dies aged 89]]></title>
+            <description><![CDATA[The Anglo-French star played Hugo Drax opposite Roger Moore's 007 in the 1979 film Moonraker.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54234139</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54234139</guid>
+            <pubDate>Mon, 21 Sep 2020 15:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ellen DeGeneres: Humbled host returns to TV with apology and admission]]></title>
+            <description><![CDATA[The TV host opens the new series of her talk show by addressing allegations of a toxic workplace.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54235307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54235307</guid>
+            <pubDate>Mon, 21 Sep 2020 15:20:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Botswana: Mystery elephant deaths caused by cyanobacteria]]></title>
+            <description><![CDATA[Toxins made by algae in water holes caused 330 elephant deaths in Botswana earlier this year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54234396</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54234396</guid>
+            <pubDate>Mon, 21 Sep 2020 14:50:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nepalese Ang Rita Sherpa: Everest record-breaker dies aged 72]]></title>
+            <description><![CDATA[Ang Rita Sherpa is the first person to have climbed Mount Everest 10 times without bottled oxygen.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-54239110</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54239110</guid>
+            <pubDate>Mon, 21 Sep 2020 15:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twitter investigates racial bias in image previews]]></title>
+            <description><![CDATA[After users highlight problems, Twitter says more work on racial bias in algorithms is needed.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54234822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54234822</guid>
+            <pubDate>Mon, 21 Sep 2020 11:43:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India: Baby dies after man 'cuts pregnant wife's belly']]></title>
+            <description><![CDATA[The woman's family alleges the man attacked his wife to check the baby's gender - claims he denies.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-54234621</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-54234621</guid>
+            <pubDate>Mon, 21 Sep 2020 12:25:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[French MP left red-faced after parked car blocks train]]></title>
+            <description><![CDATA[Jean Lassalle apologises after he mistakenly left his car on a level crossing while in a hurry.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54234207</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54234207</guid>
+            <pubDate>Mon, 21 Sep 2020 10:24:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emmy Awards 2020: Seven highlights from the ceremony]]></title>
+            <description><![CDATA[Monica, Rachel and Phoebe's reunion delighted fans during the virtual Emmys ceremony.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54146614</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54146614</guid>
+            <pubDate>Mon, 21 Sep 2020 05:16:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Supreme Court: The possible nominees to fill vacancy]]></title>
+            <description><![CDATA[Two conservative women are seen as frontrunners for the vacancy created by Ruth Bader Ginsburg's death.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54229799</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54229799</guid>
+            <pubDate>Sun, 20 Sep 2020 22:20:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside Poland’s 'LGBT-free zones']]></title>
+            <description><![CDATA[Dozens of Polish towns have declared themselves free of "LGBT ideology". It means difficult choices for gay people living in them.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-54191344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-54191344</guid>
+            <pubDate>Sun, 20 Sep 2020 23:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The black-owned coffee firm that became a bestseller]]></title>
+            <description><![CDATA[US firm Blk & Bold has seen sales surge this year on the back of the Black Lives Matter movement.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54146695</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54146695</guid>
+            <pubDate>Sun, 20 Sep 2020 23:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the oil industry made us doubt climate change]]></title>
+            <description><![CDATA[Energy companies stand accused of trying to downplay their contribution to global warming.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-53640382</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-53640382</guid>
+            <pubDate>Sat, 19 Sep 2020 23:16:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Janusz Walus: Why far-right Polish football fans idolise a murderer in South Africa]]></title>
+            <description><![CDATA[Janusz Walus killed anti-apartheid leader Chris Hani in 1993, sparking fears of a racial civil war.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54055822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54055822</guid>
+            <pubDate>Sat, 19 Sep 2020 23:36:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jogging when you're black - the calculations you have to make]]></title>
+            <description><![CDATA[A law enforcement expert and a black runner analyse a police encounter that went wrong.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54210412</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54210412</guid>
+            <pubDate>Sun, 20 Sep 2020 23:08:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emmy Awards 2020: Schitt's Creek wins nine awards at the Emmys]]></title>
+            <description><![CDATA[The ceremony went ahead despite the coronavirus pandemic, with all the nominees watching from home.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54234248</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54234248</guid>
+            <pubDate>Mon, 21 Sep 2020 11:37:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds of whales stranded off the coast of Tasmania]]></title>
+            <description><![CDATA[At least 25 whales are thought to have already died as conservationists begin a huge rescue operation.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-54236126</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-54236126</guid>
+            <pubDate>Mon, 21 Sep 2020 11:35:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lagos Inferno: What caused the blast that destroyed a Nigerian girls' school]]></title>
+            <description><![CDATA[An explosion in Lagos, Nigeria killed 23 people and destroys a girls’ boarding school. But what caused it?]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54208394</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54208394</guid>
+            <pubDate>Sun, 20 Sep 2020 23:02:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Singapore rolls out Covid tracing tokens]]></title>
+            <description><![CDATA[Thousands of devices are being distributed to vulnerable groups such as the elderly.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-54206824</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54206824</guid>
+            <pubDate>Sat, 19 Sep 2020 23:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ruth Bader Ginsburg: Obituary of the Supreme Court justice]]></title>
+            <description><![CDATA[US Supreme Court Justice Ruth Bader Ginsburg was a trailblazer to women of all stripes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-49488374</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-49488374</guid>
+            <pubDate>Fri, 18 Sep 2020 23:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ruth Bader Ginsburg in pictures and her own words]]></title>
+            <description><![CDATA[A look back at some of the justice's greatest quotes on gender equality, law, and being remembered.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54218139</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54218139</guid>
+            <pubDate>Sat, 19 Sep 2020 16:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tributes to a 'warrior for gender equality']]></title>
+            <description><![CDATA[From politicians to female lawyers and reporters - people pay respects to an "extraordinary" woman.]]></description>
+            <link>https://www.bbc.co.uk/news/world-54218131</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-54218131</guid>
+            <pubDate>Sat, 19 Sep 2020 13:14:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Ginsburg was an amazing woman' - Trump]]></title>
+            <description><![CDATA[President Trump said the justice 'lived an amazing life" while rival Joe Biden praised her legal legacy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54216026</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54216026</guid>
+            <pubDate>Sat, 19 Sep 2020 03:46:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Remembering the trailblazer for women’s rights]]></title>
+            <description><![CDATA[The Supreme Court justice has died at the age of 87 after undergoing treatment for pancreatic cancer.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54215488</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54215488</guid>
+            <pubDate>Sat, 19 Sep 2020 02:07:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

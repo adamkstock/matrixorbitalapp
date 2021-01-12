@@ -1,0 +1,1 @@
+https://www.c-sharpcorner.com/UploadFile/mahesh/convert-string-to-char-array-in-C-Sharp/

@@ -1,0 +1,9 @@
+C:\Users\deada\Desktop\C\lineoutputtest\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\deada\Desktop\C\lineoutputtest\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\deada\Desktop\C\lineoutputtest\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\deada\Desktop\C\lineoutputtest\ConsoleApp1\ConsoleApp1\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\deada\Desktop\C\lineoutputtest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\deada\Desktop\C\lineoutputtest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\deada\Desktop\C\lineoutputtest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\deada\Desktop\C\lineoutputtest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\deada\Desktop\C\lineoutputtest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

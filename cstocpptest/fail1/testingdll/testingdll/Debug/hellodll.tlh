@@ -1,0 +1,63 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.16.27045.0 (f1a877c6).
+//
+// c:\users\deada\desktop\c\cstocpptest\fail1\testingdll\testingdll\debug\hellodll.tlh
+//
+// C++ source equivalent of Win32 type library C:\Users\deada\Desktop\C\cstocpptest\fail1\HelloDll\HelloDll\bin\Debug\HelloDll.tlb
+// compiler-generated file created 12/27/20 at 22:58:44 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+namespace HelloDll {
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("fd60a8b0-13d4-4b23-b66c-71ababbbde66"))
+/* LIBID */ __HelloDll;
+struct __declspec(uuid("baace98d-67c3-3c45-a132-5e40b47c797c"))
+/* dual interface */ ICalculator;
+struct /* coclass */ ManagedClass;
+struct __declspec(uuid("744f3d1e-b00a-3d3b-a801-8a82df8d332d"))
+/* dual interface */ _ManagedClass;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(ICalculator, __uuidof(ICalculator));
+_COM_SMARTPTR_TYPEDEF(_ManagedClass, __uuidof(_ManagedClass));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("baace98d-67c3-3c45-a132-5e40b47c797c"))
+ICalculator : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall Add (
+        /*[in]*/ long Number1,
+        /*[in]*/ long Number2,
+        /*[out,retval]*/ long * pRetVal ) = 0;
+};
+
+struct __declspec(uuid("ae1246eb-b6e2-3cdd-a951-bf5d68477123"))
+ManagedClass;
+    // [ default ] interface _ManagedClass
+    // interface _Object
+    // interface ICalculator
+
+struct __declspec(uuid("744f3d1e-b00a-3d3b-a801-8a82df8d332d"))
+_ManagedClass : IDispatch
+{};
+
+} // namespace HelloDll
+
+#pragma pack(pop)

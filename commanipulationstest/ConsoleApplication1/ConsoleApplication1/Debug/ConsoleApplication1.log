@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+c:\users\deada\desktop\c\matrixorbitalapp\commanipulationstest\consoleapplication1\consoleapplication1\consoleapplication1.cpp(25): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+c:\users\deada\desktop\c\matrixorbitalapp\commanipulationstest\consoleapplication1\consoleapplication1\consoleapplication1.cpp(29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\deada\desktop\c\matrixorbitalapp\commanipulationstest\consoleapplication1\consoleapplication1\consoleapplication1.cpp(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ConsoleApplication1.vcxproj -> C:\Users\deada\Desktop\C\matrixorbitalapp\commanipulationstest\ConsoleApplication1\Debug\ConsoleApplication1.exe

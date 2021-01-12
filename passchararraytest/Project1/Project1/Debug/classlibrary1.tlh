@@ -1,0 +1,65 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.16.27045.0 (230403d3).
+//
+// c:\users\deada\desktop\c\passchararraytest\project1\project1\debug\classlibrary1.tlh
+//
+// C++ source equivalent of Win32 type library C:\Users\deada\Desktop\C\passchararraytest\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.tlb
+// compiler-generated file created 01/03/21 at 12:56:02 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+namespace ClassLibrary1 {
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("cad03f20-2da5-40b8-97b5-7e8fd432990d"))
+/* LIBID */ __ClassLibrary1;
+struct __declspec(uuid("943d8e16-5b37-33ca-a2c0-c89746e6e228"))
+/* dual interface */ ICalculator;
+struct /* coclass */ ManagedClass;
+struct __declspec(uuid("c8e9181c-f064-3ec1-869e-042c6fdd3e46"))
+/* dual interface */ _ManagedClass;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(ICalculator, __uuidof(ICalculator));
+_COM_SMARTPTR_TYPEDEF(_ManagedClass, __uuidof(_ManagedClass));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("943d8e16-5b37-33ca-a2c0-c89746e6e228"))
+ICalculator : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall Add (
+        /*[in]*/ long Number1,
+        /*[in]*/ long Number2,
+        /*[out,retval]*/ long * pRetVal ) = 0;
+      virtual HRESULT __stdcall Passback (
+        /*[out,retval]*/ SAFEARRAY * * pRetVal ) = 0;
+};
+
+struct __declspec(uuid("edc79dda-436f-3b48-9942-1c14505d0a7f"))
+ManagedClass;
+    // [ default ] interface _ManagedClass
+    // interface _Object
+    // interface ICalculator
+
+struct __declspec(uuid("c8e9181c-f064-3ec1-869e-042c6fdd3e46"))
+_ManagedClass : IDispatch
+{};
+
+} // namespace ClassLibrary1
+
+#pragma pack(pop)
